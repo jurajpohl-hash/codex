@@ -1,0 +1,63 @@
+{
+  "dvadsatjeden": [
+    {
+      "file": "assets/dvadsatjeden/logo-dva-riadky.svg",
+      "original_filename": "logo - dva riadky.svg",
+      "sha256": "fd35b3c4b9fc6171baa6009059f5bbd063d63c5865fd08609e588bda385bf641"
+    },
+    {
+      "file": "assets/dvadsatjeden/logo-jeden-riadok.svg",
+      "original_filename": "logo - jeden riadok.svg",
+      "sha256": "80f6198000622540c7aec8c5b5c61ed6ec6318b1a3915f108785d7e93e6d7929"
+    },
+    {
+      "file": "assets/dvadsatjeden/logo-tri-riadky.svg",
+      "original_filename": "logo - tri riadky.svg",
+      "sha256": "8bf7bf7f5f67bf710fd5ac9f9dabf6efd431e49febf275da55cc8999cbcb383c"
+    },
+    {
+      "file": "assets/dvadsatjeden/logo-tri-riadky.pdf",
+      "original_filename": "logo - tri riadky.pdf",
+      "sha256": "a6e403387e606db4b0b633b5ecc6a7db4ea916d7aabbecc053fc38d91a05d569"
+    },
+    {
+      "file": "assets/dvadsatjeden/logo-dva-riadky.pdf",
+      "original_filename": "logo - dva riadky.pdf",
+      "sha256": "1b265f574a7b7b0e3a725a9584a69330054dd9e9e17d76aa2823f1d51e89287f"
+    },
+    {
+      "file": "assets/dvadsatjeden/logo-jeden-riadok.pdf",
+      "original_filename": "logo - jeden riadok.pdf",
+      "sha256": "adcc3b405d7ccca91c2477745b23847dc3a1a44a53885c2334232d3a64349d07"
+    }
+  ],
+  "po-stopach-prievidze": [
+    {
+      "file": "assets/po-stopach-prievidze/logo-bielo-zlte.jpg",
+      "original_filename": "PHOTO-2026-09-17-19-37-41.jpg",
+      "sha256": "9fef971b5ea05531af90312fd6ea8948a29c7944f46e595a55b7a9706dbed8eb",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "transparent": false
+    },
+    {
+      "file": "assets/po-stopach-prievidze/logo-zeleno-zlte.jpg",
+      "original_filename": "PHOTO-2026-09-17-19-37-41 2.jpg",
+      "sha256": "fc2e2131da26c4a6259063b131ab9fd1de4748afc410534bb126080cddcefe0b",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "transparent": false
+    },
+    {
+      "file": "assets/po-stopach-prievidze/logo-biele.jpg",
+      "original_filename": "PHOTO-2026-09-17-19-38-15.jpg",
+      "sha256": "7ff6e4d4e5964dadc0fa44db5cd5ebc116b6ec8921439db3750bf638764e12d5",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "transparent": false
+    }
+  ]
+}
